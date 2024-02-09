@@ -27,3 +27,4 @@ Similarly, the aforementioned analytical approach was employed to examine total 
 Findings Presentation
 https://docs.google.com/presentation/d/1EuLLElEE48K3reSMra7-RcFQ58aYj9rjJnOhpKGO2eY/edit?usp=sharing 
 
+Work completed by Devon Noer, Blake Sandvick, and Kim Reiser
