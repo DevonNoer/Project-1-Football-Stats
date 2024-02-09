@@ -22,4 +22,4 @@ How do total yards fluctuate year to year in the NFC north?
 
 Utilizing time series analysis to assess the comprehensive performance of each team revealed a notable diversity within the dataset. The total passing yards exhibited discernible fluctuations across three seasons. While certain teams, such as Minnesota, maintained a relatively stable performance in terms of overall passing yards, others, like Chicago, experienced marked variability between seasons.
 Similarly, the aforementioned analytical approach was employed to examine total rushing yards, uncovering distinct fluctuations within each team's seasonal performance. Numerous confounding variables, including injuries and player transitions such as retirements or team changes, contribute to the challenge of maintaining consistency in overall team performance.
-
+![Alt text](Project 1/Output/Home_Away_Pass_Rush.png)
