@@ -23,6 +23,23 @@ A direct correlation has been established between wind speed and the yards gaine
 Utilizing time series analysis to assess the comprehensive performance of each team revealed a notable diversity within the dataset. The total passing yards exhibited discernible fluctuations across three seasons. While certain teams, such as Minnesota, maintained a relatively stable performance in terms of overall passing yards, others, like Chicago, experienced marked variability between seasons.
 Similarly, the aforementioned analytical approach was employed to examine total rushing yards, uncovering distinct fluctuations within each team's seasonal performance. Numerous confounding variables, including injuries and player transitions such as retirements or team changes, contribute to the challenge of maintaining consistency in overall team performance.
 
+# Overview of Files in Project 1
+
+There are 3 folders in project 1. Code, Output, Resources
+
+## Code
+
+In the folder "Code" you will find the "cleaning.ipynb" which was used to get and manipulate the csv file from resources which contains the database that we used. In this code we break down the data and manipulate it to create tables to use on our graphs.
+In the folder "Code" you will also find the "graphs.ipynb" which was used to take the data from csv files that were created in the cleaning and turn them into graphs. 
+
+## Output
+
+In the output folder you will find the csv's for the tables created in "cleaning.ipynb" and images of the graphs created in "graph.ipynb".
+
+## Resources 
+
+In the Resources folder you will find the csv of all the data that we used for this project.
+
 
 Findings Presentation
 https://docs.google.com/presentation/d/1EuLLElEE48K3reSMra7-RcFQ58aYj9rjJnOhpKGO2eY/edit?usp=sharing 
