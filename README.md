@@ -1,4 +1,6 @@
-# Overview
+# NFL Offensive Stats for 2019-2022 Overview
+
+Work completed by Devon Noer, Blake Sandvick, and Kim Reiser
 
 This study examined the collective offensive performance of NFL teams. Various factors were scrutinized to ascertain their impact on gameplay dynamics. Notably, the influence of venue, distinguishing between home and away contests, was analyzed alongside environmental variables such as ambient temperature and wind speed. Furthermore, longitudinal assessments were conducted to discern the variability in performance within the NFC North division across consecutive seasons. The synthesis of these datasets unveiled diverse correlations, subject to distinct limitations, which will be expounded upon in subsequent analysis.
 
@@ -52,4 +54,4 @@ In the Resources folder you will find the csv of all the data that we used for t
 Findings Presentation
 https://docs.google.com/presentation/d/1EuLLElEE48K3reSMra7-RcFQ58aYj9rjJnOhpKGO2eY/edit?usp=sharing 
 
-Work completed by Devon Noer, Blake Sandvick, and Kim Reiser
+
